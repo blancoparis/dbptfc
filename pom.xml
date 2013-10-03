@@ -4,4 +4,7 @@
   <artifactId>dbptfc</artifactId>
   <version>1.0</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>weberp</module>
+  </modules>
 </project>
